@@ -1,6 +1,6 @@
 Getting Started
 1.	Clone the Repo
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/prashant0612/Stock-Website.git
 cd your_repo
 2.	Install Dependencies
 npm install
